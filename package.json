@@ -1,0 +1,17 @@
+{
+  "name": "securifyvault",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "dev:watch": "npx electronmon --trace-warning ."
+  },
+  "keywords": [],
+  "author": "Maher",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^29.0.1"
+  }
+}
